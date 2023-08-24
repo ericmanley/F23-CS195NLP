@@ -7,9 +7,9 @@ Eric Manley
 
  :speech_balloon: [Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=eric.manley@drake.edu)
 
-Email: eric.manley@drake.edu
+:email: eric.manley@drake.edu
 
-Office: Collier-Scripps 327
+:pushpin: Collier-Scripps 327
 
 
 ### Office Hours
