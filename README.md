@@ -9,7 +9,7 @@ Eric Manley
 
 :email: eric.manley@drake.edu
 
-:pushpin: Collier-Scripps 327
+:office: Collier-Scripps 327
 
 
 ### Office Hours
