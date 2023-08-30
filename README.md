@@ -24,15 +24,18 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
 
 ## Fortnight 1
 
-### 8/29 Prologue: Adventure Awaits
+### 8/31 Prologue: Adventure Awaits
 * [Syllabus](F0_0_Syllabus.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F0_0_Syllabus.ipynb)
+
+
+### 8/29 Using the Transformers Library
 * [Introduction to Hugging Face Transformers Library](F1_1_HuggingFace.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F1_1_HuggingFace.ipynb)
 * Further Reading
     - [Hugging Face *Quicktour*](https://huggingface.co/docs/transformers/quicktour)
     - [Hugging Face *Run Inference with Pipelines tutorial*](https://huggingface.co/docs/transformers/pipeline_tutorial)
     - [Hugging Face *NLP Course, Chapter 2*](https://huggingface.co/learn/nlp-course/chapter2/1)
 
-### 8/31 Text Classification Data and Evaluation
+### 9/5 Text Classification Data and Evaluation
 * [Loading Data and Evaluating Classification Models](F1_2_DataEvaluation.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F1_2_DataEvaluation.ipynb)
 * Further Reading
     - [Hugging Face Load a dataset from the Hub tutorial](https://huggingface.co/docs/datasets/load_hub)
