@@ -24,11 +24,11 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
 
 ## Fortnight 1
 
-### 8/31 Prologue: Adventure Awaits
+### 8/29 Prologue: Adventure Awaits
 * [Syllabus](F0_0_Syllabus.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F0_0_Syllabus.ipynb)
 
 
-### 8/29 Using the Transformers Library
+### 8/31 Using the Transformers Library
 * [Introduction to Hugging Face Transformers Library](F1_1_HuggingFace.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F1_1_HuggingFace.ipynb)
 * Further Reading
     - [Hugging Face *Quicktour*](https://huggingface.co/docs/transformers/quicktour)
