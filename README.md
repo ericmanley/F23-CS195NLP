@@ -17,7 +17,7 @@ Eric Manley
 Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instructor/serviceCatalog.html?bookmark=connection/8352/schedule) the day before or drop in
 * T 10:00am-12:00pm
 * W 11:30am-2:30pm
-* *upcoming changes:* W 9/6 9:00am-12:00pm
+* *upcoming changes:* W 9/6 9:00am-11:00am
 
 
 ---
