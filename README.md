@@ -15,8 +15,8 @@ Eric Manley
 ### Office Hours
 
 Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instructor/serviceCatalog.html?bookmark=connection/8352/schedule) the day before or drop in
+* M 10:00am-1:00pm
 * T 10:00am-12:00pm
-* W 11:30am-2:30pm
 
 
 ---
