@@ -47,3 +47,17 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - [Google's implementation of rouge_score](https://github.com/google-research/google-research/tree/master/rouge)
     - [Hugging Face's wrapper for Google's implementation](https://huggingface.co/spaces/evaluate-metric/rouge)
     - [Hugging Face Task Guide on Summarization](https://huggingface.co/docs/transformers/tasks/summarization)
+
+---
+
+## Fortnight 2
+
+### 9/12 Demo Day (and dealing with issues using datasets)
+* Demo Day
+    - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
+    - Write down the names of the people you presented to
+    - Nominate a cool project to show off to everyone
+* [More on Dataset Organization](F2_1_MoreOnDatasets.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_1_MoreOnDatasets.ipynb)
+* Further Reading
+    - [Hugging Face Load a dataset from the Hub tutorial](https://huggingface.co/docs/datasets/load_hub)
+    - [Hugging Face dataset features documentation](https://huggingface.co/docs/datasets/about_dataset_features)
