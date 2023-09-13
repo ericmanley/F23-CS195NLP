@@ -63,3 +63,10 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
 * Further Reading
     - [Hugging Face Load a dataset from the Hub tutorial](https://huggingface.co/docs/datasets/load_hub)
     - [Hugging Face dataset features documentation](https://huggingface.co/docs/datasets/about_dataset_features)
+
+### 9/14 Summarization, Translation, and Question Answering (if time)
+* [Summarization, Translation, and Question Answering](F2_2_SummarizationTranslationQuestionAnswering.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_2_SummarizationTranslationQuestionAnswering.ipynb)
+* Further Reading
+    - [Hugging Face Task Guide on Summarization](https://huggingface.co/docs/transformers/tasks/summarization)
+    - [Hugging Face Task Guide on Translation](https://huggingface.co/docs/transformers/tasks/translation)
+    - [Hugging Face Task Guide on Question Answering](https://huggingface.co/docs/transformers/tasks/question_answering)
