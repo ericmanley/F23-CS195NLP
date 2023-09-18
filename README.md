@@ -70,3 +70,8 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - [Hugging Face Task Guide on Summarization](https://huggingface.co/docs/transformers/tasks/summarization)
     - [Hugging Face Task Guide on Translation](https://huggingface.co/docs/transformers/tasks/translation)
     - [Hugging Face Task Guide on Question Answering](https://huggingface.co/docs/transformers/tasks/question_answering)
+
+### 9/19 Question Answering
+* [Hugging Face Task Guide on Question Answering](https://huggingface.co/docs/transformers/tasks/question_answering)[<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_3_QuestionAnswering.ipynb)
+* Further Reading
+    - [Hugging Face Task Guide on Question Answering](https://huggingface.co/docs/transformers/tasks/question_answering)
