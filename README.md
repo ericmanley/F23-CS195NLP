@@ -17,8 +17,6 @@ Eric Manley
 Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instructor/serviceCatalog.html?bookmark=connection/8352/schedule) the day before or drop in
 * M 10:00am-1:00pm
 * T 10:00am-12:00pm
-* Upcoming changes
-    - No office hours 9/18
 
 
 ---
@@ -72,6 +70,14 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - [Hugging Face Task Guide on Question Answering](https://huggingface.co/docs/transformers/tasks/question_answering)
 
 ### 9/19 Question Answering
-* [Hugging Face Task Guide on Question Answering](https://huggingface.co/docs/transformers/tasks/question_answering)[<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_3_QuestionAnswering.ipynb)
+* [Question Answering](F2_3_QuestionAnswering.ipynb)[<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_3_QuestionAnswering.ipynb)
 * Further Reading
     - [Hugging Face Task Guide on Question Answering](https://huggingface.co/docs/transformers/tasks/question_answering)
+
+### 9/21 Markov Models
+* [Markov Models](F2_4_MarkovModels.ipynb)[<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_4_MarkovModels.ipynb)
+* Further Reading
+    - [Markov chain on Wikipedia](https://en.wikipedia.org/wiki/Markov_chain)
+    - [NLTK Book Chapter 2: Accessing Text Corpora and Lexical Resources](https://www.nltk.org/book/ch02.html)
+    - [What is ChatGPT Doing and Why Does it Work? By Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+        * This is a fascinating article that covers a lot of NLP topics. The opening motivates text generation with Markov-like descriptions.
