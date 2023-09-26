@@ -70,14 +70,32 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - [Hugging Face Task Guide on Question Answering](https://huggingface.co/docs/transformers/tasks/question_answering)
 
 ### 9/19 Question Answering
-* [Question Answering](F2_3_QuestionAnswering.ipynb)[<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_3_QuestionAnswering.ipynb)
+* [Question Answering](F2_3_QuestionAnswering.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_3_QuestionAnswering.ipynb)
 * Further Reading
     - [Hugging Face Task Guide on Question Answering](https://huggingface.co/docs/transformers/tasks/question_answering)
 
 ### 9/21 Markov Models
-* [Markov Models](F2_4_MarkovModels.ipynb)[<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_4_MarkovModels.ipynb)
+* [Markov Models](F2_4_MarkovModels.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_4_MarkovModels.ipynb)
 * Further Reading
     - [Markov chain on Wikipedia](https://en.wikipedia.org/wiki/Markov_chain)
     - [NLTK Book Chapter 2: Accessing Text Corpora and Lexical Resources](https://www.nltk.org/book/ch02.html)
     - [What is ChatGPT Doing and Why Does it Work? By Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
         * This is a fascinating article that covers a lot of NLP topics. The opening motivates text generation with Markov-like descriptions.
+
+---
+
+## Fortnight 3
+
+### 9/26 Demo Day and Tokenization
+* Demo Day
+    - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
+    - Write down the names of the people you presented to
+    - Nominate a cool project to show off to everyone
+* [Tokenization](F3_1_Tokenization.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F3_1_Tokenization.ipynb)
+* Further Reading:
+    - [Python `requests` library quickstart](https://requests.readthedocs.io/en/latest/user/quickstart/)
+    - [Beautiful Soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+    - [GPT Tokenizer Illustration](https://platform.openai.com/tokenizer)
+    - [Python `split` method](https://docs.python.org/3/library/stdtypes.html#str.split)
+    - [Hugging Face Byte-Pair Encoding tokenization](https://huggingface.co/learn/nlp-course/chapter6/5?fw=pt)
+    - [Hugging Face WordPiece tokenization](https://huggingface.co/learn/nlp-course/chapter6/6?fw=pt)
