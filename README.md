@@ -94,8 +94,12 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
 * [Tokenization](F3_1_Tokenization.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F3_1_Tokenization.ipynb)
 * Further Reading:
     - [Python `requests` library quickstart](https://requests.readthedocs.io/en/latest/user/quickstart/)
-    - [Beautiful Soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
     - [GPT Tokenizer Illustration](https://platform.openai.com/tokenizer)
     - [Python `split` method](https://docs.python.org/3/library/stdtypes.html#str.split)
+
+### 9/28 Automatic Tokenization
+* [Automatic Tokenization](F3_2_AutoTokenization.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F3_2_AutoTokenization.ipynb)
+* Further Reading:
+    - [Beautiful Soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
     - [Hugging Face Byte-Pair Encoding tokenization](https://huggingface.co/learn/nlp-course/chapter6/5?fw=pt)
     - [Hugging Face WordPiece tokenization](https://huggingface.co/learn/nlp-course/chapter6/6?fw=pt)
