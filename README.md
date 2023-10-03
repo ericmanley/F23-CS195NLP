@@ -103,3 +103,11 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - [Beautiful Soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
     - [Hugging Face Byte-Pair Encoding tokenization](https://huggingface.co/learn/nlp-course/chapter6/5?fw=pt)
     - [Hugging Face WordPiece tokenization](https://huggingface.co/learn/nlp-course/chapter6/6?fw=pt)
+
+### 10/3 Hidden Markov Models and Part-of-Speech Tagging
+* [Hidden Markov Models and Part-of-Speech Tagging](F3_3_HMMPOS.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F3_3_HMMPOS.ipynb)
+* Further Reading:
+    - [Wisdom ML's *Hidden Markov Model (HMM) in NLP: Complete Implementation in Python*](https://wisdomml.in/hidden-markov-model-hmm-in-nlp-python/)
+    - [Great Learning's *Part of Speech (POS) tagging with Hidden Markov Model*](https://www.mygreatlearning.com/blog/pos-tagging/)
+    - [Hidden Markov Model on Wikipedia](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+    - [Viterbi Algorithm on Wikipedia](https://en.wikipedia.org/wiki/Viterbi_algorithm)
