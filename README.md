@@ -116,7 +116,7 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
 * [Workshop Slides](F3_4_SaulVarshavsky_Semantic%20Folding_Workshop.pptx) [![Open in Google Slides](https://img.shields.io/badge/Open%20in-Google%20Slides-blue?logo=google%20slides&style=flat-square&link=https://docs.google.com/presentation/d/1k4svXVYZ8M1gLDFD0MMz0y3jIdbIfjOs/edit?usp=sharing&ouid=104219288264290628620&rtpof=true&sd=true)](https://docs.google.com/presentation/d/1k4svXVYZ8M1gLDFD0MMz0y3jIdbIfjOs/edit?usp=sharing&ouid=104219288264290628620&rtpof=true&sd=true)
 * [Worksheet](F3_4_SaulVarshavsky_Semantic%20Folding_Worksheet.docx) [![Open in Google Docs](https://img.shields.io/badge/Open%20in-Google%20Docs-blue?logo=google%20docs&style=flat-square&link=https://docs.google.com/document/d/1GjZOk9b-VdRRVOl2JfSCFZREXBg2KHzo/edit?usp=sharing&ouid=104219288264290628620&rtpof=true&sd=true)](https://docs.google.com/document/d/1GjZOk9b-VdRRVOl2JfSCFZREXBg2KHzo/edit?usp=sharing&ouid=104219288264290628620&rtpof=true&sd=true)
 
-* [Semantic Folding Code](F3_4_SaulVarshavsky_Semantic%20Folding_Code.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F3_4_SaulVarshavsky_Semantic%20Folding_Code.ipynb)
+* [Semantic Folding Code](F3_4_SaulVarshavsky_Semantic%20Folding_Code.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/https://github.com/ericmanley/F23-CS195NLP/blob/main/F3_4_SaulVarshavsky_SemanticFolding_Code.ipynb)
 
 
 ---
