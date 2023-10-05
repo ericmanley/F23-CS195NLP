@@ -111,3 +111,25 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - [Great Learning's *Part of Speech (POS) tagging with Hidden Markov Model*](https://www.mygreatlearning.com/blog/pos-tagging/)
     - [Hidden Markov Model on Wikipedia](https://en.wikipedia.org/wiki/Hidden_Markov_model)
     - [Viterbi Algorithm on Wikipedia](https://en.wikipedia.org/wiki/Viterbi_algorithm)
+
+### 10/5 Semantic Folding with Saul Varshavsky
+* [Workshop Slides](F3_4_SaulVarshavsky_Semantic Folding_Workshop.pptx)
+* [Workseet](F3_4_SaulVarshavsky_Semantic Folding_Worksheet.docx)
+* [Semantic Folding Code](F3_4_SaulVarshavsky_Semantic Folding_Code.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F3_4_SaulVarshavsky_Semantic Folding_Code.ipynb)
+
+---
+
+## Fortnight 4
+
+### 10/10 Demo Day and WordNet
+* Demo Day
+    - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
+    - Write down the names of the people you presented to
+    - Nominate a cool project to show off to everyone
+* [WordNet](F4_1_WordNet.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F4_1_WordNet.ipynb)
+* Further Reading:
+    - [Sample usage for WordNet](https://www.nltk.org/howto/wordnet.html)
+    - [WordNet documentation](https://www.nltk.org/api/nltk.corpus.reader.wordnet.html)
+    - [NLTK Book Chapter 2 (see Section 5)](https://www.nltk.org/book/ch02.html)
+    - [Dive into WordNet with NLTK by Norbert Kozlowski](https://medium.com/@don_khozzy/dive-into-wordnet-with-nltk-b313c480e788)
+    - [Getting started with nltk-wordnet in Python](https://www.section.io/engineering-education/getting-started-with-nltk-wordnet-in-python/)
