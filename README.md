@@ -24,24 +24,24 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
 ## Fortnight 1
 
 ### 8/29 Prologue: Adventure Awaits
-* [Syllabus](F0_0_Syllabus.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F0_0_Syllabus.ipynb)
+* [Syllabus](F0_0_Syllabus.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F0_0_Syllabus.ipynb)
 
 
 ### 8/31 Using the Transformers Library
-* [Introduction to Hugging Face Transformers Library](F1_1_HuggingFace.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F1_1_HuggingFace.ipynb)
+* [Introduction to Hugging Face Transformers Library](F1_1_HuggingFace.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F1_1_HuggingFace.ipynb)
 * Further Reading
     - [Hugging Face *Quicktour*](https://huggingface.co/docs/transformers/quicktour)
     - [Hugging Face *Run Inference with Pipelines tutorial*](https://huggingface.co/docs/transformers/pipeline_tutorial)
     - [Hugging Face *NLP Course, Chapter 2*](https://huggingface.co/learn/nlp-course/chapter2/1)
 
 ### 9/5 Text Classification Data and Evaluation
-* [Loading Data and Evaluating Classification Models](F1_2_DataEvaluation.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F1_2_DataEvaluation.ipynb)
+* [Loading Data and Evaluating Classification Models](F1_2_DataEvaluation.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F1_2_DataEvaluation.ipynb)
 * Further Reading
     - [Hugging Face Load a dataset from the Hub tutorial](https://huggingface.co/docs/datasets/load_hub)
     - [scikit-learn Classification Metrics User's Guide](https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics)
 
 ### 9/7 ROUGE and Summarization
-* [ROUGE and Summarization](F1_3_RougeSummarization.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F1_3_RougeSummarization.ipynb)
+* [ROUGE and Summarization](F1_3_RougeSummarization.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F1_3_RougeSummarization.ipynb)
 * Further Reading
     - [*Two minutes NLP — Learn the ROUGE metric* by examples](https://medium.com/nlplanet/two-minutes-nlp-learn-the-rouge-metric-by-examples-f179cc285499) by Fabio Chiusan 
     - [Google's implementation of rouge_score](https://github.com/google-research/google-research/tree/master/rouge)
@@ -57,25 +57,25 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
     - Write down the names of the people you presented to
     - Nominate a cool project to show off to everyone
-* [More on Dataset Organization](F2_1_MoreOnDatasets.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_1_MoreOnDatasets.ipynb)
+* [More on Dataset Organization](F2_1_MoreOnDatasets.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_1_MoreOnDatasets.ipynb)
 * Further Reading
     - [Hugging Face Load a dataset from the Hub tutorial](https://huggingface.co/docs/datasets/load_hub)
     - [Hugging Face dataset features documentation](https://huggingface.co/docs/datasets/about_dataset_features)
 
 ### 9/14 Summarization, Translation, and Question Answering (if time)
-* [Summarization, Translation, and Question Answering](F2_2_SummarizationTranslationQuestionAnswering.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_2_SummarizationTranslationQuestionAnswering.ipynb)
+* [Summarization, Translation, and Question Answering](F2_2_SummarizationTranslationQuestionAnswering.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_2_SummarizationTranslationQuestionAnswering.ipynb)
 * Further Reading
     - [Hugging Face Task Guide on Summarization](https://huggingface.co/docs/transformers/tasks/summarization)
     - [Hugging Face Task Guide on Translation](https://huggingface.co/docs/transformers/tasks/translation)
     - [Hugging Face Task Guide on Question Answering](https://huggingface.co/docs/transformers/tasks/question_answering)
 
 ### 9/19 Question Answering
-* [Question Answering](F2_3_QuestionAnswering.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_3_QuestionAnswering.ipynb)
+* [Question Answering](F2_3_QuestionAnswering.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_3_QuestionAnswering.ipynb)
 * Further Reading
     - [Hugging Face Task Guide on Question Answering](https://huggingface.co/docs/transformers/tasks/question_answering)
 
 ### 9/21 Markov Models
-* [Markov Models](F2_4_MarkovModels.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_4_MarkovModels.ipynb)
+* [Markov Models](F2_4_MarkovModels.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F2_4_MarkovModels.ipynb)
 * Further Reading
     - [Markov chain on Wikipedia](https://en.wikipedia.org/wiki/Markov_chain)
     - [NLTK Book Chapter 2: Accessing Text Corpora and Lexical Resources](https://www.nltk.org/book/ch02.html)
@@ -91,21 +91,21 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
     - Write down the names of the people you presented to
     - Nominate a cool project to show off to everyone
-* [Tokenization](F3_1_Tokenization.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F3_1_Tokenization.ipynb)
+* [Tokenization](F3_1_Tokenization.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F3_1_Tokenization.ipynb)
 * Further Reading:
     - [Python `requests` library quickstart](https://requests.readthedocs.io/en/latest/user/quickstart/)
     - [GPT Tokenizer Illustration](https://platform.openai.com/tokenizer)
     - [Python `split` method](https://docs.python.org/3/library/stdtypes.html#str.split)
 
 ### 9/28 Automatic Tokenization
-* [Automatic Tokenization](F3_2_AutoTokenization.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F3_2_AutoTokenization.ipynb)
+* [Automatic Tokenization](F3_2_AutoTokenization.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F3_2_AutoTokenization.ipynb)
 * Further Reading:
     - [Beautiful Soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
     - [Hugging Face Byte-Pair Encoding tokenization](https://huggingface.co/learn/nlp-course/chapter6/5?fw=pt)
     - [Hugging Face WordPiece tokenization](https://huggingface.co/learn/nlp-course/chapter6/6?fw=pt)
 
 ### 10/3 Hidden Markov Models and Part-of-Speech Tagging
-* [Hidden Markov Models and Part-of-Speech Tagging](F3_3_HMMPOS.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F3_3_HMMPOS.ipynb)
+* [Hidden Markov Models and Part-of-Speech Tagging](F3_3_HMMPOS.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F3_3_HMMPOS.ipynb)
 * Further Reading:
     - [Wisdom ML's *Hidden Markov Model (HMM) in NLP: Complete Implementation in Python*](https://wisdomml.in/hidden-markov-model-hmm-in-nlp-python/)
     - [Great Learning's *Part of Speech (POS) tagging with Hidden Markov Model*](https://www.mygreatlearning.com/blog/pos-tagging/)
@@ -116,7 +116,7 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
 * [Workshop Slides](F3_4_SaulVarshavsky_Semantic%20Folding_Workshop.pptx) [![Open in Google Slides](https://img.shields.io/badge/Open%20in-Google%20Slides-blue?logo=google%20slides&style=flat-square&link=https://docs.google.com/presentation/d/1k4svXVYZ8M1gLDFD0MMz0y3jIdbIfjOs/edit?usp=sharing&ouid=104219288264290628620&rtpof=true&sd=true)](https://docs.google.com/presentation/d/1k4svXVYZ8M1gLDFD0MMz0y3jIdbIfjOs/edit?usp=sharing&ouid=104219288264290628620&rtpof=true&sd=true)
 * [Worksheet](F3_4_SaulVarshavsky_Semantic%20Folding_Worksheet.docx) [![Open in Google Docs](https://img.shields.io/badge/Open%20in-Google%20Docs-blue?logo=google%20docs&style=flat-square&link=https://docs.google.com/document/d/1GjZOk9b-VdRRVOl2JfSCFZREXBg2KHzo/edit?usp=sharing&ouid=104219288264290628620&rtpof=true&sd=true)](https://docs.google.com/document/d/1GjZOk9b-VdRRVOl2JfSCFZREXBg2KHzo/edit?usp=sharing&ouid=104219288264290628620&rtpof=true&sd=true)
 
-* [Semantic Folding Code](F3_4_SaulVarshavsky_Semantic%20Folding_Code.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F3_4_SaulVarshavsky_Semantic%20Folding_Code.ipynb)
+* [Semantic Folding Code](F3_4_SaulVarshavsky_Semantic%20Folding_Code.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F3_4_SaulVarshavsky_Semantic%20Folding_Code.ipynb)
 
 
 ---
@@ -128,7 +128,7 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
     - Write down the names of the people you presented to
     - Nominate a cool project to show off to everyone
-* [WordNet](F4_1_WordNet.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" width="70px">](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F4_1_WordNet.ipynb)
+* [WordNet](F4_1_WordNet.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F4_1_WordNet.ipynb)
 * Further Reading:
     - [Sample usage for WordNet](https://www.nltk.org/howto/wordnet.html)
     - [WordNet documentation](https://www.nltk.org/api/nltk.corpus.reader.wordnet.html)
