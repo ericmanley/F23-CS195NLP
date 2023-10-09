@@ -124,6 +124,9 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
 ## Fortnight 4
 
 ### 10/10 Demo Day and WordNet
+* Example Portfolio
+    - Here's an example of a Jupyter Notebook being used to format the [main page of the portfolio](https://drive.google.com/file/d/1dDvHaw2nlPS37Ex2Qze61FRCUA4QMUbo/view?usp=drive_link)
+    - [Here's a link to the Google Drive folder](https://drive.google.com/drive/folders/1No-v1NK2qCKnSgW0otKKmGz7XmEnhyNX?usp=drive_link) - you can see it is just a place to put all of the files you worked on.
 * Demo Day
     - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
     - Write down the names of the people you presented to
