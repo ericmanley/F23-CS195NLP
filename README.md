@@ -140,7 +140,7 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - [Getting started with nltk-wordnet in Python](https://www.section.io/engineering-education/getting-started-with-nltk-wordnet-in-python/)
 
 ### 10/12 Word Sense Disambiguation
-* [Word Sense Disambiguation](F4_2_WordSenseDisambiguation.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/FF4_2_WordSenseDisambiguation.ipynb)
+* [Word Sense Disambiguation](F4_2_WordSenseDisambiguation.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F4_2_WordSenseDisambiguation.ipynb)
 * Further Reading:
     - [Word Senses and WordNet, Chapter 23 of *Speech and Language Processing* by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
     - [WordNet documentation](https://www.nltk.org/api/nltk.corpus.reader.wordnet.html)
