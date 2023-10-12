@@ -138,3 +138,12 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - [NLTK Book Chapter 2 (see Section 5)](https://www.nltk.org/book/ch02.html)
     - [Dive into WordNet with NLTK by Norbert Kozlowski](https://medium.com/@don_khozzy/dive-into-wordnet-with-nltk-b313c480e788)
     - [Getting started with nltk-wordnet in Python](https://www.section.io/engineering-education/getting-started-with-nltk-wordnet-in-python/)
+
+### 10/12 Word Sense Disambiguation
+* [Word Sense Disambiguation](F4_2_WordSenseDisambiguation.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/FF4_2_WordSenseDisambiguation.ipynb)
+* Further Reading:
+    - [Word Senses and WordNet, Chapter 23 of *Speech and Language Processing* by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
+    - [WordNet documentation](https://www.nltk.org/api/nltk.corpus.reader.wordnet.html)
+    - [SemCor Corpus Module documentation](https://www.nltk.org/api/nltk.corpus.reader.semcor.html)
+    - [NLTK Stopwords](https://pythonspot.com/nltk-stop-words/)
+    - [Lemmatization with NLTK](https://www.geeksforgeeks.org/python-lemmatization-with-nltk/)
