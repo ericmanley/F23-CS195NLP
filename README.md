@@ -147,3 +147,10 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - [SemCor Corpus Module documentation](https://www.nltk.org/api/nltk.corpus.reader.semcor.html)
     - [NLTK Stopwords](https://pythonspot.com/nltk-stop-words/)
     - [Lemmatization with NLTK](https://www.geeksforgeeks.org/python-lemmatization-with-nltk/)
+
+
+### 10/19 Context-Free Grammars
+* [Context-Free Grammars](F4_3_ContextFreeGrammars.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F4_3_ContextFreeGrammars.ipynb)
+* Further Reading:
+    - [Context-Free Grammars and Constituency Parsing, Chapter 17 of *Speech and Language Processing* by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/17.pdf)
+    - [NLTK Book Chapter 8: Analyzing Sentence Structure](https://www.nltk.org/book/ch08.html)
