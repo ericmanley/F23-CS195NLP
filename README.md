@@ -154,3 +154,21 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
 * Further Reading:
     - [Context-Free Grammars and Constituency Parsing, Chapter 17 of *Speech and Language Processing* by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/17.pdf)
     - [NLTK Book Chapter 8: Analyzing Sentence Structure](https://www.nltk.org/book/ch08.html)
+
+
+---
+
+## Fortnight 5
+
+### 10/23 Demo Day and Parsing
+* Demo Day
+    - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
+    - Write down the names of the people you presented to
+    - Nominate a cool project to show off to everyone
+* [Midterm Course Feedback](https://forms.gle/4Qfi5oBHd5Pvvumk6)
+* [Parsing](F5_1_Parsing.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F5_1_Parsing.ipynb)
+* Further Reading:
+    - [Context-Free Grammars and Constituency Parsing, Chapter 17 of *Speech and Language Processing* by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/17.pdf)
+    - [NLTK Book Chapter 8](Analyzing Sentence Structure: https://www.nltk.org/book/ch08.html)
+    - [Wikipedia article on CYK Parsing](https://en.wikipedia.org/wiki/CYK_algorithm)
+
