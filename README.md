@@ -160,7 +160,7 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
 
 ## Fortnight 5
 
-### 10/23 Demo Day and Parsing
+### 10/24 Demo Day and Parsing
 * Demo Day
     - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
     - Write down the names of the people you presented to
@@ -172,3 +172,9 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - [NLTK Book Chapter 8: Analyzing Sentence Structure]( https://www.nltk.org/book/ch08.html)
     - [Wikipedia article on CYK Parsing](https://en.wikipedia.org/wiki/CYK_algorithm)
 
+### 10/26 Machine Learning with Text Data
+* [Machine Learning](F5_2_MachineLearning.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F5_2_MachineLearning.ipynb)
+* Further Reading:
+    - [Vector Semantics and Embeddings, Chapter 6 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+    - [scikit-learn API reference](https://scikit-learn.org/stable/modules/classes.html)
+    
