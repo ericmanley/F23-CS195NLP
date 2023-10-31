@@ -178,3 +178,9 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - [Vector Semantics and Embeddings, Chapter 6 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
     - [scikit-learn API reference](https://scikit-learn.org/stable/modules/classes.html)
     
+### 10/31 Neural Networks
+* [Neural Networks](F5_3_NeuralNetworks.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F5_3_NeuralNetworks.ipynb)
+* Further Reading:
+    - [Neural Networks and Neural Language Models, Chapter 7 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
+    - [Artificial Neural Networks, Chapter 4 of Machine Learning by Tom M. Mitchell](http://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf)
+    - [Sequential Model from Keras Developer Guide](https://keras.io/guides/sequential_model/)
