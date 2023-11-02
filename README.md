@@ -184,3 +184,10 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - [Neural Networks and Neural Language Models, Chapter 7 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
     - [Artificial Neural Networks, Chapter 4 of Machine Learning by Tom M. Mitchell](http://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf)
     - [Sequential Model from Keras Developer Guide](https://keras.io/guides/sequential_model/)
+
+### 11/2 Embeddings
+* [Embeddings](F5_4_Embeddings.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F5_4_Embeddings.ipynb)
+    - [Word2Vec Tutorial - The Skip-Gram Model by Chris McCormick](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+    - [Word2Vec - Negative Sampling made easy by Munesh Lakhey](https://medium.com/@mnshonco/word2vec-negative-sampling-made-easy-9a587cb4695f)
+    - [Keras Embedding Layer](https://keras.io/api/layers/core_layers/embedding/)
+    - [Keras Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
