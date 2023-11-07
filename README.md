@@ -192,3 +192,16 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - [Word2Vec - Negative Sampling made easy by Munesh Lakhey](https://medium.com/@mnshonco/word2vec-negative-sampling-made-easy-9a587cb4695f)
     - [Keras Embedding Layer](https://keras.io/api/layers/core_layers/embedding/)
     - [Keras Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
+
+---
+
+## Fortnight 6
+
+### 11/6 Demo Day and Neural Language Models
+* Demo Day
+    - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
+    - Write down the names of the people you presented to
+    - Nominate a cool project to show off to everyone
+* [Neural Language Modeling](F6_1_NeuralLanguageModeling.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F6_1_NeuralLanguageModeling.ipynb)
+* Further Reading:
+    - [Neural Networks and Neural Language Models, Chapter 7 of *Speech and Language Processing* by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
