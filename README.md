@@ -212,3 +212,9 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
    - [RNNs and LSTMs, Chapter 9 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
     - [Keras documentation for SimpleRNN Layer](https://keras.io/api/layers/recurrent_layers/simple_rnn/)
     
+### 11/14 Encoder-Decoder Architectures
+* [ncoder-Decoder Architectures](F6_3_EncoderDecoder.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F6_3_EncoderDecoder.ipynb)
+* Further Reading:
+    - [SLP: RNNs and LSTMs, Chapter 9 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
+    - [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
+    - [Character-level recurrent sequence-to-sequence model](https://keras.io/examples/nlp/lstm_seq2seq/)
