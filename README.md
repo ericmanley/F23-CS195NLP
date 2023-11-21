@@ -225,3 +225,19 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - [SLP: RNNs and LSTMs, Chapter 9 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
     - [Wikipedia article on Gated Recurrent Unit](https://en.wikipedia.org/wiki/Gated_recurrent_unit)
     - [Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras by Jason Brownlee](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
+
+
+---
+
+## Fortnight 7
+
+### 11/21 Demo Day and Transfer Learning
+* Demo Day
+    - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
+    - Write down the names of the people you presented to
+    - Nominate a cool project to show off to everyone
+* [Transfer Learning](F7_1_TransferLearning.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F7_1_TransferLearning.ipynb)
+* Further Reading:
+    - [Hugging Face NLP Course Chapter 1: Transformer Models](https://huggingface.co/learn/nlp-course/chapter1/1)
+    - [Hugging Face NLP Course Chapter 3: Fine-tuning a model with the Trainer API or Keras](https://huggingface.co/learn/nlp-course/chapter3/1)
+    - [Hugging Face NLP Course Chapter 7, Section 5: Summarization](https://huggingface.co/learn/nlp-course/chapter7/5?fw=tf)
