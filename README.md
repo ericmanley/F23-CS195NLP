@@ -241,3 +241,10 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
     - [Hugging Face NLP Course Chapter 1: Transformer Models](https://huggingface.co/learn/nlp-course/chapter1/1)
     - [Hugging Face NLP Course Chapter 3: Fine-tuning a model with the Trainer API or Keras](https://huggingface.co/learn/nlp-course/chapter3/1)
     - [Hugging Face NLP Course Chapter 7, Section 5: Summarization](https://huggingface.co/learn/nlp-course/chapter7/5?fw=tf)
+
+### 11/27 Attention and Transformers
+* [Attention and Transformers](F7_2_AttentionTransformers.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F7_2_AttentionTransformers.ipynb)
+* Further Reading:
+   - [Attention, Section 9.8 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
+   - [Transformers and Pre-Trained Language Models, Chapter 10 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
+   - [How do Transformers Work?, Section 1.4 of Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/4)
