@@ -248,3 +248,9 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
    - [Attention, Section 9.8 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
    - [Transformers and Pre-Trained Language Models, Chapter 10 of Speech and Language Processing by Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
    - [How do Transformers Work?, Section 1.4 of Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/4)
+
+
+### 11/30 Conversational Models
+* [Attention and Transformers](F7_3_ConversationalModels.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F7_3_ConversationalModels.ipynb)
+* Further Reading:
+   - [Hugging Face documentation on Blenderbot small](https://huggingface.co/docs/transformers/model_doc/blenderbot-small)
