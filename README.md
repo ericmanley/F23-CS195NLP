@@ -255,7 +255,7 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
 * Further Reading:
    - [Hugging Face documentation on Blenderbot small](https://huggingface.co/docs/transformers/model_doc/blenderbot-small)
 
-### 12/4 Reinforcement Learning from Human Feedback
+### 12/5 Reinforcement Learning from Human Feedback
 * [Reinforcement Learning from Human Feedback](F7_4_RLHF.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F7_4_RLHF.ipynb)
 * Course Evaluations - see the Blackboard page for the link
 * Further Reading:
