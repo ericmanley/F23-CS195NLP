@@ -254,3 +254,10 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
 * [Attention and Transformers](F7_3_ConversationalModels.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F7_3_ConversationalModels.ipynb)
 * Further Reading:
    - [Hugging Face documentation on Blenderbot small](https://huggingface.co/docs/transformers/model_doc/blenderbot-small)
+
+### 12/4 Reinforcement Learning from Human Feedback
+* [Reinforcement Learning from Human Feedback](F7_4_RLHF.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/f23-CS195NLP/blob/main/F7_4_RLHF.ipynb)
+* Course Evaluations - see the Blackboard page for the link
+* Further Reading:
+    - [*Illustrating Reinforcement Learning from Human Feedback* by Nathan Lambert, Louis Castricato, Leandro von Werra, and Alex Havrilla, Hugging Face blog](https://huggingface.co/blog/rlhf)
+    - [*AI Alignment* article on Wikipedia](https://en.wikipedia.org/wiki/AI_alignment)
