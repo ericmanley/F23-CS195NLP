@@ -261,3 +261,10 @@ Schedule in [Starfish](https://drake.starfishsolutions.com/starfish-ops/dl/instr
 * Further Reading:
     - [*Illustrating Reinforcement Learning from Human Feedback* by Nathan Lambert, Louis Castricato, Leandro von Werra, and Alex Havrilla, Hugging Face blog](https://huggingface.co/blog/rlhf)
     - [*AI Alignment* article on Wikipedia](https://en.wikipedia.org/wiki/AI_alignment)
+
+### 12/7 Demo Day and Final Learning Reflection
+* Demo Day
+    - We will have more time than usual for this for anyone who would like to present in front of the whole class.
+    - 5-min demo of creative synthesis project or completed applied exploration (or core practice if that's what you have)
+    - Write down the names of the people you presented to
+* [Final Learning Reflection](https://forms.gle/11a9JGB34JLpWxsw6)
